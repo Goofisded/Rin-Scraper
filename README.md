@@ -52,10 +52,6 @@ python main.py
 2. **View Results**: The scraper will return detailed information, including DNS servers, emails, phone numbers, security.txt, headers, and more.
 3. **Save or Analyze**: Use output for analysis or further development.
 
-## Screenshot
-
-![Capture](https://github.com/user-attachments/assets/fa3c3dad-2b0c-4f3f-85b4-839e0e383391)
-
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue for any improvements or bugs you encounter.
