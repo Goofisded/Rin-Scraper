@@ -1,4 +1,4 @@
-# Website Scraper
+# Rin Scraper
 
 A Python-based web scraper that gathers essential information from websites, including SSL/TLS data, DNS, WHOIS info, robots.txt, social media tags, security.txt, phone numbers, emails, and more!
 
@@ -50,7 +50,7 @@ python main.py
 
 1. **Enter the URL**: When prompted, input the URL of the website you want to scrape.
 2. **View Results**: The scraper will return detailed information, including DNS servers, emails, phone numbers, security.txt, headers, and more.
-3. **Save or Analyze**: Use the organized and colorized output for analysis or further development.
+3. **Save or Analyze**: Use output for analysis or further development.
 
 ## Screenshot
 
