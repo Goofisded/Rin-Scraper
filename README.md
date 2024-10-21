@@ -1,6 +1,6 @@
 # Website Scraper
 
-A powerful Python-based web scraper that gathers essential information from websites, including SSL/TLS data, DNS, WHOIS info, robots.txt, social media tags, security.txt, phone numbers, emails, and more!
+A Python-based web scraper that gathers essential information from websites, including SSL/TLS data, DNS, WHOIS info, robots.txt, social media tags, security.txt, phone numbers, emails, and more!
 
 ## Features
 
@@ -11,7 +11,6 @@ A powerful Python-based web scraper that gathers essential information from webs
 - Verifies **HSTS** (HTTP Strict Transport Security) status
 - Displays **WHOIS Information** and **Firewall** headers
 - Checks **security.txt** and finds **Linked Pages**
-- Color-coded and organized output for better readability
 
 ## Requirements
 
